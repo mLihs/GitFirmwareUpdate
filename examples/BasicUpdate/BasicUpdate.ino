@@ -20,8 +20,8 @@
 #include <DebugLog.h>
 
 // WiFi credentials - replace with your network
-const char* ssid = "Martins-Wifi";
-const char* password = "rockerwf300fbwelg1";
+const char* ssid = "YOUR_WIFI_SSID";
+const char* password = "YOUR_WIFI_PASSWORD";
 
 // Firmware update configuration
 #define FW_CURRENT_VERSION "1.0.0"  // Current firmware version on device
